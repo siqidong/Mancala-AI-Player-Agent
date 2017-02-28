@@ -1,3 +1,5 @@
 # Mancala-AI-Player-Agent
 
-A project for CS 561
+Project for CS 561
+
+Fall 2015
